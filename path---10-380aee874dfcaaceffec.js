@@ -1,0 +1,2 @@
+webpackJsonp([1392953483005],{314:function(t,e){t.exports={data:{markdownRemark:{html:'<h1>Resources</h1>\n<div class="gatsby-highlight">\n      <pre class="language-text"><code class="language-text">* https://github.com/\n* https://education.github.com/pack\n* https://www.codecademy.com/</code></pre>\n      </div>'}},pathContext:{absolutePath:"/Users/chanceeakin/Documents/sandbox/ben/ben-talk/src/pages/10.md"}}}});
+//# sourceMappingURL=path---10-380aee874dfcaaceffec.js.map

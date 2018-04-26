@@ -1,0 +1,2 @@
+webpackJsonp([0x927cc07429d8],{321:function(n,a){n.exports={data:{markdownRemark:{html:'<h1>Explanation</h1>\n<p>and a few definitions</p>\n<div class="gatsby-highlight">\n      <pre class="language-text"><code class="language-text">* Code\n* Algorithm\n* Html\n* Css\n* Javascript\n* command line\n* Google/Stack Overflow</code></pre>\n      </div>'}},pathContext:{absolutePath:"/Users/chanceeakin/Documents/sandbox/ben/ben-talk/src/pages/6.md"}}}});
+//# sourceMappingURL=path---6-f672026ec6a5f7e21a4f.js.map

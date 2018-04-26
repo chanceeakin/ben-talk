@@ -1,0 +1,2 @@
+webpackJsonp([0xc22571bd08b4],{324:function(a,e){a.exports={data:{markdownRemark:{html:"<h1>Questions?</h1>"}},pathContext:{absolutePath:"/Users/chanceeakin/Documents/sandbox/ben/ben-talk/src/pages/9.md"}}}});
+//# sourceMappingURL=path---9-f37e55c4a3fe53856398.js.map

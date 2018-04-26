@@ -1,0 +1,2 @@
+webpackJsonp([24461200302109],{317:function(e,a){e.exports={data:{markdownRemark:{html:'<h2>Now: Software Developer</h2>\n<p>In effect:</p>\n<div class="gatsby-highlight">\n      <pre class="language-text"><code class="language-text">Find problem.\nDrink coffee.\nSolve problem.</code></pre>\n      </div>'}},pathContext:{absolutePath:"/Users/chanceeakin/Documents/sandbox/ben/ben-talk/src/pages/4.md"}}}});
+//# sourceMappingURL=path---4-1ac4a098388343a3cc06.js.map
